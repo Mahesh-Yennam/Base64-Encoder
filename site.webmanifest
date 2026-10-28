@@ -1,0 +1,16 @@
+{
+  "name": "Base64 Encoder & Decoder — Gamility Tools",
+  "short_name": "Base64 Tool",
+  "description": "Two-way Base64 text, image, and file encoder/decoder with UTF-8 support, URL-safe mode, and live data URI previews.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090e1a",
+  "theme_color": "#090e1a",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
